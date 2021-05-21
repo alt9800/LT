@@ -1,0 +1,94 @@
+---
+
+theme: "white"
+transition: "slide"
+title: "発表で使って便利だったツール"
+
+---
+----
+
+"発表で使って便利だったツール"
+
+----
+
+---
+
+## 自己紹介
+
+# たなか
+(@ebiflyyyyyyyy)
+
+- 福岡市の無職
+- Ruby を始めサーバーサイドよりの技術に興味 (オレオレREST API作ったり)
+- Webの技術を使った工作が楽しくて生きてます (東京都の家賃価格を可視化したり)
+- 脳神経とか
+
+---
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下手にヒートマップにするよりも点群に近く表した方がわかりやすそう <a href="https://t.co/34ubK622IM">pic.twitter.com/34ubK622IM</a></p>&mdash; 深呼吸 (@ebiflyyyyyyyy) <a href="https://twitter.com/ebiflyyyyyyyy/status/1353699068690665473?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+![image](https://pbs.twimg.com/media/EslOBs3UUAE4eJS?format=png&name=small)
+
+
+---
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スプラをマイコンで自動化した <a href="https://t.co/bFw1U6dY4x">pic.twitter.com/bFw1U6dY4x</a></p>&mdash; 深呼吸 (@ebiflyyyyyyyy) <a href="https://twitter.com/ebiflyyyyyyyy/status/1366359112217321474?ref_src=twsrc%5Etfw">March 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+---
+
+本題
+
+---
+
+## 発表でよく使うツール
+
+- PowerPoint <img src="data:image/png;base64,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" height="20"  alt="pp" align="top" >
+- Google slide
+- key notes
+
+---
+
+飽きてきたな...
+
+---
+
+代替案 1
+
+---
+
+## Mindmap
+
+[Mindmaster](https://viewer.edrawsoft.com/public/s/9171a362945161)
+
+---
+
+代替案 2
+
+
+
+---
+
+ローカルにサーバ立てて、html(md)で表示してしまえ！！
+
+---
+
+## reverl.js (on VScode)
+
+## Qiita Slide
+
+## DeckDeckgo
+
+---
+
+お仕事募集中です...
+
+---
+
+ご入学おめでとうございます！
+
+学生生活楽しんでください！！
+
+---
